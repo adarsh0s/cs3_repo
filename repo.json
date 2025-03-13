@@ -1,0 +1,8 @@
+{
+    "name": "SuperStream Repo",
+    "description": "SuperStream Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/adarsh0s/cs3_repo/refs/heads/main/plugin.json"
+    ]
+}
